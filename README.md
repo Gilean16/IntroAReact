@@ -7,6 +7,7 @@ los primeros al no haber sido cargados a Git. Ojalá aun me den tiempo de termin
 Vayasa a la branch "master" para ver los trabajos.
 
 Tarea 1 -> Intro a React
+
 Tarea 2 -> Manejo de estado (lista de compras)
 
 
