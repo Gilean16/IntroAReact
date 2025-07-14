@@ -10,5 +10,7 @@ Tarea 1 -> Intro a React
 
 Tarea 2 -> Manejo de estado (lista de compras)
 
+Tarea 3 -> useEffect (contador de tareas)
+
 
 ~ Gilean Alducin.
